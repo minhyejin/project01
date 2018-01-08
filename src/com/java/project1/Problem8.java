@@ -24,6 +24,7 @@ public class Problem8 {
 			int deposit = scan.nextInt();
 			scan.nextLine();
 		    money += deposit;
+		    break;
 		
 		case 2:
 			System.out.println("출금할 금액 입력:");
